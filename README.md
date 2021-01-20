@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Road to becoming a JavaScript Ninja: Creating your own simple JavaScript playground -Part I](https://medium.com/wesionary-team/road-to-becoming-a-javascript-ninja-creating-your-own-simple-javascript-playground-part-i-38a931ebf752?source=rss-2db942015095------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
