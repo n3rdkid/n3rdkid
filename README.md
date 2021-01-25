@@ -13,6 +13,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Road to becoming a JavaScript Ninja: Creating your own simple JavaScript playground -Part II](https://medium.com/wesionary-team/road-to-becoming-a-javascript-ninja-creating-your-own-simple-javascript-playground-part-ii-1f185c6c99f2?source=rss-2db942015095------2)
 - [Road to becoming a JavaScript Ninja: Creating your own simple JavaScript playground -Part I](https://medium.com/wesionary-team/road-to-becoming-a-javascript-ninja-creating-your-own-simple-javascript-playground-part-i-38a931ebf752?source=rss-2db942015095------2)
 <!-- BLOG-POST-LIST:END -->
 
