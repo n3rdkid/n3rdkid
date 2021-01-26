@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurav Adhikari</h1>
 <h3 align="center">A Full Stack JavaScript Developer and Data Science / Machine Learning enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=n3rdkid&label=Profile%20views&color=0e75b6&style=flat" alt="n3rdkid" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3rdkid" alt="n3rdkid" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science / Machine Learning**
