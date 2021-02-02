@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sau-rav-adhikari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sau-rav-adhikari/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/absolute.kid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/absolute.kid/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sau-rav-adhikari/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/sau-rav-adhikari/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/absolute.kid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/absolute.kid/" height="30" width="40" /></a>
 <a href="https://medium.com/@saurav-adhikari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@saurav-adhikari" height="30" width="40" /></a>
 </p>
 
