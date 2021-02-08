@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Making sense of Kubernetes configuration files (YAML)](https://medium.com/wesionary-team/making-sense-of-kubernetes-configuration-files-yaml-f90b033d5ad1?source=rss-2db942015095------2)
 - [Road to becoming a JavaScript Ninja: Creating your own simple JavaScript playground -Part II](https://medium.com/wesionary-team/road-to-becoming-a-javascript-ninja-creating-your-own-simple-javascript-playground-part-ii-1f185c6c99f2?source=rss-2db942015095------2)
 - [Road to becoming a JavaScript Ninja: Creating your own simple JavaScript playground -Part I](https://medium.com/wesionary-team/road-to-becoming-a-javascript-ninja-creating-your-own-simple-javascript-playground-part-i-38a931ebf752?source=rss-2db942015095------2)
 <!-- BLOG-POST-LIST:END -->
