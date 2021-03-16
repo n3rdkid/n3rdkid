@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Science / Machine Learning**
 
-- 💬 Ask me about **React , Node , Express**
+- 💬 Ask me about **React , NextJS , Redux , Node , Express**
 
 - 📫 How to reach me **sauravads123@gmail.com**
 
