@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3rdkid" alt="n3rdkid" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science / Machine Learning**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **React , NextJS , Redux , Node , Express**
 
