@@ -11,10 +11,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Provision AWS resources using Terraform — IaC](https://medium.com/wesionary-team/provision-aws-resources-using-terraform-iac-a263dca48059?source=rss-2db942015095------2)
 - [Getting started with Terraform — For aspiring DevOps Engineer](https://medium.com/wesionary-team/getting-started-with-terraform-for-aspiring-devops-engineer-99b413239bb?source=rss-2db942015095------2)
 - [CI/CD with GitHub Actions — React Monorepo to Firebase Hosting](https://medium.com/wesionary-team/ci-cd-with-github-actions-react-monorepo-to-firebase-hosting-14e02e30ca90?source=rss-2db942015095------2)
 - [Making sense of Kubernetes configuration files (YAML)](https://medium.com/wesionary-team/making-sense-of-kubernetes-configuration-files-yaml-f90b033d5ad1?source=rss-2db942015095------2)
-- [Road to becoming a JavaScript Ninja: Creating your own simple JavaScript playground -Part II](https://medium.com/wesionary-team/road-to-becoming-a-javascript-ninja-creating-your-own-simple-javascript-playground-part-ii-1f185c6c99f2?source=rss-2db942015095------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
