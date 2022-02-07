@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React , NextJS , Redux , Node , Express**
 
 - 📫 How to reach me **sauravads123@gmail.com**
 
