@@ -10,10 +10,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Project&lpar;Account&rpar; service account in GCP](https://medium.com/wesionary-team/multi-project-account-service-account-in-gcp-ba8f8821347e?source=rss-2db942015095------2)
-- [Automate adding Github environments/repository secrets](https://medium.com/wesionary-team/automate-adding-github-environments-repository-secrets-64de7d1235e7?source=rss-2db942015095------2)
-- [Provision AWS resources using Terraform — IaC](https://medium.com/wesionary-team/provision-aws-resources-using-terraform-iac-a263dca48059?source=rss-2db942015095------2)
-- [Getting started with Terraform — For aspiring DevOps Engineer](https://medium.com/wesionary-team/getting-started-with-terraform-for-aspiring-devops-engineer-99b413239bb?source=rss-2db942015095------2)
+- [Multi-Project&lpar;Account&rpar; service account in GCP](https://articles.wesionary.team/multi-project-account-service-account-in-gcp-ba8f8821347e?source=rss-2db942015095------2)
+- [Automate adding Github environments/repository secrets](https://articles.wesionary.team/automate-adding-github-environments-repository-secrets-64de7d1235e7?source=rss-2db942015095------2)
+- [Provision AWS resources using Terraform — IaC](https://articles.wesionary.team/provision-aws-resources-using-terraform-iac-a263dca48059?source=rss-2db942015095------2)
+- [Getting started with Terraform — For aspiring DevOps Engineer](https://articles.wesionary.team/getting-started-with-terraform-for-aspiring-devops-engineer-99b413239bb?source=rss-2db942015095------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
