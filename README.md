@@ -3,9 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=n3rdkid" alt="n3rdkid" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps**
-
-
 - 📫 How to reach me **sauravads123@gmail.com**
 
 ### Blogs posts
